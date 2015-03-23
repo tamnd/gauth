@@ -101,7 +101,7 @@ func main() {
 }
 ```
 
-See the full source code at [example/simple.go](#).
+See the full source code at [examples/facebook.go](https://github.com/tamnd/gauth/tree/master/examples/facebook.go).
 
 
 ## Write new provider 
