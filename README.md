@@ -25,20 +25,22 @@ $ go get github.com/tamnd/gauth
 ## List of Providers
 Here are the list of supported providers. Would you love to see more providers? Feel free to contribute ones by create your own repository or create pull requests!
 
+I use the [list](https://github.com/intridea/omniauth/wiki/List-of-Strategies) as reference. When porting providers directly from those gems, I also keep the author of the gems as author of the providers.
+
 **Please keep the list in alphabetical order**
 
 | Provider | Description | Author | Is Official?
 | --- | ---- | --- | ---
-| [AngelList](http://github.com/tamnd/gauth/tree/master/provider/angellist) | Authenticate to [AngelList](https://angel.co) using OAuth2. | tamnd | No
-| [Aol](http://github.com/tamnd/gauth/tree/master/provider/aol) | Authenticate to [Aol](https://www.aol.com) using OAuth2. | tamnd | No
-| [App.net](http://github.com/tamnd/gauth/tree/master/provider/appnet) | Authenticate to [App.net](https://www.app.net) using OAuth2. | tamnd | No
-| [Behance](http://github.com/tamnd/gauth/tree/master/provider/behance) | Authenticate to [Behance](http://www.behance.net) using OAuth2. | tamnd | No
-| [Box](http://github.com/tamnd/gauth/tree/master/provider/box) | Authenticate to [Box](http://www.box.net) using OAuth2. | tamnd | No
-| [Dropbox](http://github.com/tamnd/gauth/tree/master/provider/dropbox) | Authenticate to [Dropbox](http://www.dropbox.com) using OAuth2. | tamnd | No
-| [Facebook](http://github.com/tamnd/gauth/tree/master/provider/facebook) | Authenticate to [Facebook](http://www.facebook.com) using OAuth2. | tamnd | No
-| [Foursquare](http://github.com/tamnd/gauth/tree/master/provider/foursquare) | Authenticate to [Foursquare](http://ww.foursquare.com) using OAuth2. | tamnd | No
-| [Instagram](http://github.com/tamnd/gauth/tree/master/provider/instagram) | Authenticate to [Instagram](http://www.instagram.com) using OAuth2. | tamnd | No
-| [Meetup](http://github.com/tamnd/gauth/tree/master/provider/meetup) | Authenticate to [Meetup](http://www.meetup.com) using OAuth2. | tamnd | No
+| [AngelList](http://github.com/tamnd/gauth/tree/master/provider/angellist) | Authenticate to [AngelList](https://angel.co) using OAuth2. | [railsjedi](https://github.com/railsjedi) | No
+| [Aol](http://github.com/tamnd/gauth/tree/master/provider/aol) | Authenticate to [Aol](https://www.aol.com) using OAuth2. | [pianosnake](https://github.com/pianosnake) | No
+| [App.net](http://github.com/tamnd/gauth/tree/master/provider/appnet) | Authenticate to [App.net](https://www.app.net) using OAuth2. | [phuu](https://github.com/phuu)  | No
+| [Behance](http://github.com/tamnd/gauth/tree/master/provider/behance) | Authenticate to [Behance](http://www.behance.net) using OAuth2. | [phuu](https://github.com/phuu) | No
+| [Box](http://github.com/tamnd/gauth/tree/master/provider/box) | Authenticate to [Box](http://www.box.net) using OAuth2. | [phuu](https://github.com/phuu) | No
+| [Dropbox](http://github.com/tamnd/gauth/tree/master/provider/dropbox) | Authenticate to [Dropbox](http://www.dropbox.com) using OAuth2. | [bamorim](https://github.com/bamorim) | No
+| [Facebook](http://github.com/tamnd/gauth/tree/master/provider/facebook) | Authenticate to [Facebook](http://www.facebook.com) using OAuth2. | [tamnd](https://github.com/tamnd) | No
+| [Foursquare](http://github.com/tamnd/gauth/tree/master/provider/foursquare) | Authenticate to [Foursquare](http://ww.foursquare.com) using OAuth2. | [phuu](https://github.com/phuu) | No
+| [Instagram](http://github.com/tamnd/gauth/tree/master/provider/instagram) | Authenticate to [Instagram](http://www.instagram.com) using OAuth2. | [tamnd](https://github.com/tamnd) | No
+| [Meetup](http://github.com/tamnd/gauth/tree/master/provider/meetup) | Authenticate to [Meetup](http://www.meetup.com) using OAuth2. | [tapster](https://github.com/tapster) | No
 
 ## Usage
 
