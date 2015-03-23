@@ -6,8 +6,8 @@ import (
 )
 
 var Endpoint = oauth2.Endpoint{
-	AuthURL:  "https://api.box.com/oauth2/authorize",
-	TokenURL: "https://api.box.com/oauth2/token",
+	AuthURL:  "https://app.box.com/api/oauth2/authorize",
+	TokenURL: "https://app.box.com/api/oauth2/token",
 }
 
 func New(clientId string, secret string, callbackURL string, scopes ...string) gauth.Provider {
