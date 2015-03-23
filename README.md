@@ -34,8 +34,8 @@ I use the [list](https://github.com/intridea/omniauth/wiki/List-of-Strategies) a
 | [AngelList](http://github.com/tamnd/gauth/tree/master/provider/angellist) | Authenticate to [AngelList](https://angel.co) using OAuth2. | [railsjedi](https://github.com/railsjedi) | No
 | [Aol](http://github.com/tamnd/gauth/tree/master/provider/aol) | Authenticate to [Aol](https://www.aol.com) using OAuth2. | [pianosnake](https://github.com/pianosnake) | No
 | [App.net](http://github.com/tamnd/gauth/tree/master/provider/appnet) | Authenticate to [App.net](https://www.app.net) using OAuth2. | [phuu](https://github.com/phuu)  | No
-| [Behance](http://github.com/tamnd/gauth/tree/master/provider/behance) | Authenticate to [Behance](http://www.behance.net) using OAuth2. | [phuu](https://github.com/phuu) | No
-| [Box](http://github.com/tamnd/gauth/tree/master/provider/box) | Authenticate to [Box](http://www.box.net) using OAuth2. | [phuu](https://github.com/phuu) | No
+| [Behance](http://github.com/tamnd/gauth/tree/master/provider/behance) | Authenticate to [Behance](http://www.behance.net) using OAuth2. | [sandboxws](https://github.com/sandboxws) | No
+| [Box](http://github.com/tamnd/gauth/tree/master/provider/box) | Authenticate to [Box](http://www.box.net) using OAuth2. | [iCoreTech, Inc.](https://github.com/icoretech) | No
 | [Dropbox](http://github.com/tamnd/gauth/tree/master/provider/dropbox) | Authenticate to [Dropbox](http://www.dropbox.com) using OAuth2. | [bamorim](https://github.com/bamorim) | No
 | [Facebook](http://github.com/tamnd/gauth/tree/master/provider/facebook) | Authenticate to [Facebook](http://www.facebook.com) using OAuth2. | [tamnd](https://github.com/tamnd) | No
 | [Foursquare](http://github.com/tamnd/gauth/tree/master/provider/foursquare) | Authenticate to [Foursquare](http://ww.foursquare.com) using OAuth2. | [phuu](https://github.com/phuu) | No
