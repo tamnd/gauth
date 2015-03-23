@@ -29,6 +29,8 @@ Here are the list of supported providers. Would you love to see more providers? 
 
 | Provider | Description | Author | Is Official?
 | --- | ---- | --- | ---
+| [AngelList](http://github.com/tamnd/gauth/tree/master/provider/angellist) | Authenticate to [AngelList](https://angel.co) using OAuth2. | tamnd | No
+| [Box](http://github.com/tamnd/gauth/tree/master/provider/box) | Authenticate to [Box](http://www.box.net) using OAuth2. | tamnd | No
 | [Dropbox](http://github.com/tamnd/gauth/tree/master/provider/dropbox) | Authenticate to [Dropbox](http://www.dropbox.com) using OAuth2. | tamnd | No
 | [Facebook](http://github.com/tamnd/gauth/tree/master/provider/facebook) | Authenticate to [Facebook](http://www.facebook.com) using OAuth2. | tamnd | No
 | [Foursquare](http://github.com/tamnd/gauth/tree/master/provider/foursquare) | Authenticate to [Foursquare](http://ww.foursquare.com) using OAuth2. | tamnd | No
