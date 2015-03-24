@@ -38,7 +38,7 @@ I use the [list](https://github.com/intridea/omniauth/wiki/List-of-Strategies) a
 | [Box](http://github.com/tamnd/gauth/tree/master/provider/box) | Authenticate to [Box](http://www.box.net) using OAuth2. | [iCoreTech, Inc.](https://github.com/icoretech) | No
 | [Dropbox](http://github.com/tamnd/gauth/tree/master/provider/dropbox) | Authenticate to [Dropbox](http://www.dropbox.com) using OAuth2. | [bamorim](https://github.com/bamorim) | No
 | [Facebook](http://github.com/tamnd/gauth/tree/master/provider/facebook) | Authenticate to [Facebook](http://www.facebook.com) using OAuth2. | [tamnd](https://github.com/tamnd) | No
-| [Foursquare](http://github.com/tamnd/gauth/tree/master/provider/foursquare) | Authenticate to [Foursquare](http://ww.foursquare.com) using OAuth2. | [phuu](https://github.com/phuu) | No
+| [Foursquare](http://github.com/tamnd/gauth/tree/master/provider/foursquare) | Authenticate to [Foursquare](http://ww.foursquare.com) using OAuth2. | [arunagw](https://github.com/arunagw) | No
 | [Instagram](http://github.com/tamnd/gauth/tree/master/provider/instagram) | Authenticate to [Instagram](http://www.instagram.com) using OAuth2. | [tamnd](https://github.com/tamnd) | No
 | [Meetup](http://github.com/tamnd/gauth/tree/master/provider/meetup) | Authenticate to [Meetup](http://www.meetup.com) using OAuth2. | [tapster](https://github.com/tapster) | No
 
